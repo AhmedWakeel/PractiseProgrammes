@@ -1,0 +1,119 @@
+2016    
+############
+AbstractController.java    1dec2016\todeploy
+
+localhostingdev.properties 2NoV2016
+
+localhostingProduction.properties  StgMigration-24April
+server.xml                       
+localhostingStaging.properties
+
+############
+2017
+############
+DefaultAutoLoginStrategy.java 07dec2017\todeploy
+  
+
+header.tag                22Sep2017\todeploy
+
+amccertificationscomponent.jsp 26July2017\todeploy  
+
+cartPage.jsp             1march2017\todeploy
+
+
+
+ContactUsPageController.java 05Apr2017\todeploy
+javax.json-1.0.jar           05Apr2017\todeploy
+
+
+AccountPageController.java 08May2017\todeploy
+
+
+
+
+CMSLinkComponentRenderer.java  17feb2017\todeploy
+
+
+checkAvailabilityPopup.jsp  20Apr2017\todeploy
+Stock_Check_Popup.css     20Apr2017\todeploy
+
+VerifyRecaptcha.java     21Apr2017\todeploy
+
+.classpath               21mar2017\todeploy
+javax.json-api-1.0.jar   21mar2017\todeploy
+
+DefaultAMCCartFacade.java  23mar2017\todeploy
+
+AddToCartController.java    25mar2017\todeploy
+ProductPageController.java  25mar2017\todeploy
+StoreLocatorPageController.java  25mar2017\todeploy
+storeSearch.tag           25mar2017\todeploy
+
+productDetailsJavascript.tag 27Apr2017\todeploy	
+
+amccore-spring.xml     
+
+
+
+
+############
+2018 
+############
+base_en.properties        06Sept2018\todeploy
+AMCUtil.class             06Sept2018\todeploy
+
+
+
+GeoLocateStore.class      27May2018\todeploy  L=139
+HomePageController.java   27May2018\todeploy
+googleAnalytics.tag       27May2018\todeploy  
+master.tag                27May2018\todeploy  L=85
+
+amccore-items.xml         28jan2018\todeploy  
+local.properties          28jan2018\todeploy
+
+amcfacades-spring.xml     18jan2018\todeploy
+DefaultAutoLoginStrategy.java 18jan2018\todeploy
+SearchPageController.java 18jan2018\todeploy
+
+
+
+
+
+#################
+new created files
+####################
+
+2SIDED.impex                                               15nov2016\todeploy 
+Press Release.2016-11-04.pdf                               15nov2016\todeploy
+CAS - EX 99.1 - 09.30.16 FINAL.pdf                         15nov2016\todeploy
+CAS - 8-K Earnings Release September 30, 2016.pdf          15nov2016\todeploy
+A. M. CASTLE & CO. REPORTS THIRD QUARTER 2016 RESULTS.pdf  15nov2016\todeploy
+8K Earnings Release 9-30-16 and EX 99.pdf                  15nov2016\todeploy
+
+AMCSendEmailServiceImpl.java                               18jan2018\todeploy
+AMCInvalidSearchesReportCronjob.java                       18jan2018\todeploy\newfiles
+AMCSendEmailService.java                                   18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsFacade.java                         18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsFacadeImpl.java                     18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsService.java                        18jan2018\todeploy\newfiles 
+InvalidSearchedKeywordsServiceImpl.java                    18jan2018\todeploy\newfiles
+InvalidSearchesDao.java                                    18jan2018\todeploy\newfiles
+InvalidSearchesDaoImpl.java                                18jan2018\todeploy\newfiles
+poi-ooxml-3.11.jar                                         18jan2018\todeploy\newfiles
+
+
+allowCookies.js                                           27May2018\todeploy
+amccoreserver.jar                                         27May2018\todeploy
+  
+ 
+ 
+ online_quickQuote-en.impex                             22May2017\todeploy
+ quickQuote-en.impex                                    22May2017\todeploy
+ spring-security-config.xml                             22May2017\todeploy
+ staged_quickQuote-en .impex                            22May2017\todeploy
+ web.xml                                                22May2017\todeploy 
+ 
+ AMCDownloadAllDocumentsCronjob.java                   31stJuly2017\todeploy
+ 
+
