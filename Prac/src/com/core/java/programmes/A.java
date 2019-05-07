@@ -18,6 +18,9 @@ class B extends A
 	public static void main(String[] args)
 	{
 		B b = new B();
+		A a = new A();
+//		A b = new B();
+//		a.m1();
 		b.m1();
 	}
 }
