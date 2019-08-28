@@ -9,19 +9,19 @@ public class InstanceMethodReference {
 
 	public static void main(String[] args) {
 
-		List<Employee> employee = new ArrayList<>();
-		employee.add(new Employee(10, "C"));
-		employee.add(new Employee(30, "B"));
-		employee.add(new Employee(20, "A"));
+		List<Employees> employee = new ArrayList<>();
+		employee.add(new Employees(10, "C"));
+		employee.add(new Employees(30, "B"));
+		employee.add(new Employees(20, "A"));
          employee.forEach(x -> System.out.println(x.getName()));
          
          System.out.println("-------------------");
-		List<String> names = InstanceMethodReference.getNames(employee, Employee::getName);
+		List<String> names = InstanceMethodReference.getNames(employee, Employees::getName);
 		Collections.sort(names,(x1 , x2) -> x1.compareTo(x2));
 		names.forEach(System.out::println);
 	}
 
-	public static List<String> getNames(List<Employee> employee, Function<Employee, String> f) {
+	public static List<String> getNames(List<Employees> employee, Function<Employees, String> f) {
 
 		List<String> names = new ArrayList<>();
 
