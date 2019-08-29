@@ -49,6 +49,9 @@ class Employees
 	public Employees(String name) {
 		this.name = name;
 	}
+	public Employees(Integer integer,String name) {
+		this.name = name;
+	}
 	
 	public void printName() {
 		System.out.println(name);
